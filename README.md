@@ -1,4 +1,4 @@
-# spotifyplus
+# Spotify Plus
 Welcome to Spotify Plus!
 My project uses spotify python api to create an interface with extra features. One major component is a music recommendation algorithm, which is be based on a user's liked music and recommends songs by similar artists to be added to a playlist. The user can automatically create playlists of different moods - happy, sad, workout, or chill music for example. Another feature is that you can add your top songs to the spotify queue.
 
